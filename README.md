@@ -1,2 +1,3 @@
 # hello-world
-say hello to the whole world
+say hello to everyone in the whole world
+immediately!
